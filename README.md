@@ -38,7 +38,7 @@ com quebra de linhas
 
 |Tarefa|Estimativa|Status|
 |-|-|-|
-|criar conta no git|20 min|<li>[x]</li> realizado|
+|criar conta no git|20 min|<ul><li>[x]</li></ul> realizado|
 |criar o repo|1 hora|:heavy_check_mark: realizado|
 |clonar o projeto|20 min|- [ ] em progresso|
 |preencher meu primeiro markup|2 horas|- [ ] pendente|
