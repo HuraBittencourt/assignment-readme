@@ -38,9 +38,9 @@ com quebra de linhas
 
 |Tarefa|Estimativa|Status|
 |-|-|-|
-|criar o repo|1 hora|[x] realizado|
-|clonar o projeto|20 min|[ ] em progresso|
-|preencher meu primeiro markup|2 horas|[ ] pendente|
+|criar o repo|1 hora|- [x] realizado|
+|clonar o projeto|20 min|- [ ] em progresso|
+|preencher meu primeiro markup|2 horas|- [ ] pendente|
 
 
 
